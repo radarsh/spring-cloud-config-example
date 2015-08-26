@@ -1,4 +1,4 @@
-## Test project to reproduce issue https://github.com/spring-cloud/spring-cloud-config/issues/217
+## Test project to reproduce issue spring-cloud/spring-cloud-config#217
 
 ### How to setup
 
